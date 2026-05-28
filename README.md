@@ -35,7 +35,7 @@ Scrapes 200+ listings/run, Claude-powered CV-to-JD scoring, Streamlit UI, SQLite
 
 ### Stack
 
-**NLP & ML** — Python · HuggingFace Transformers · SentenceTransformers · PyTorch · XGBoost · SpaCy
-**LLM & retrieval** — LangGraph · LiteLLM · FastMCP · pgvector · Elasticsearch
-**MLOps & infra** — Docker · Kubernetes · GCP · Terraform · ArgoCD · Kafka · GitHub Actions
-**APIs & data** — FastAPI · gRPC · PostgreSQL · SQLAlchemy · Alembic
+- **NLP & ML** — Python · HuggingFace Transformers · SentenceTransformers · PyTorch · XGBoost · SpaCy
+- **LLM & retrieval** — LangGraph · LiteLLM · FastMCP · pgvector · Elasticsearch
+- **MLOps & infra** — Docker · Kubernetes · GCP · Terraform · ArgoCD · Kafka · GitHub Actions · Bitbucket Pipelines
+- **APIs & data** — FastAPI · gRPC · PostgreSQL · SQLAlchemy · Alembic
