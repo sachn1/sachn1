@@ -13,7 +13,7 @@ I gravitate toward problems at the intersection of **language and scale**: multi
 
 Currently at **deecoob GmbH** (Dresden) — entity resolution, multilingual classification, and ML infrastructure serving production traffic across DE/PL/NL.
 
-📩 sachnandmenon@gmail.com · [LinkedIn](https://linkedin.com/in/sach1) · [Resume](link-to-resume-pdf)
+📩 sachnandmenon@gmail.com · [LinkedIn](https://linkedin.com/in/sach1) · [Resume](Resume_Sachin.pdf)
 
 ---
 
