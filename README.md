@@ -1,7 +1,8 @@
 # നമസ്കാരം 🙏 Sachin here!
 
-**NLP researcher turned ML systems engineer.**
-If it's worth doing, it gets an architecture, a README, and too much Python.
+NLP researcher turned ML systems engineer.
+
+If it's worth doing, it gets an architecture, a README, and too much Python 🦸👊
 
 ---
 
